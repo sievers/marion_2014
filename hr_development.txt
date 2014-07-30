@@ -4,3 +4,33 @@ Outline the impact this proposal has on human resource development in terms of:
 °	   Nature and significance of inter-institutional collaborations
 °	    Appropriateness of human resource capacity development for a specific science domain/discipline/area of application/employment sector or for the development of scarce skills
 °	     Issues relating to redress and equity should be specifically addressed in the next section
+
+
+This project is an excellent way to train students through a strong
+international collaboration.  During the initial phase of deploying
+SCI-HI to Marion & Gough, a Master's student will join in the
+deployment and do low-level data checks.  Another student will
+carry out the detailed data analysis - this can happen at either the
+Master's or PhD level, depending on student interest and
+availability.  If at a PhD level, the student will go beyond data
+analysis to do theoretical work to better understand the implications
+to cosmology of our results.  
+
+There are many student opportunities during construction of the
+phase-2 instrument.  Instrument components are quite modular, so it
+can support 3-6 honours students, or some of those projects can be
+combined into 2-3 Master's projects.  There will also be at least one
+additional Master's and one PhD projects for analyzing the data.
+
+Key to this is strong ties with Jeff Peterson at Carnegie-Mellon. His
+group are world leaders in the field and this project, through the
+geographic advantage of the South African sub-Antarctic island
+research bases, would provide up to ten South African postgrad
+students opportunities to work closely with them.  The students will
+be trained in the sorts of low-frequency radio work that are becoming
+increasingly important in South Africa with the coming of the Square
+Kilometre Array.  Unlike virtually all other astronomy experiments,
+the short timescale associated with this project will give the
+students the chance to see an instrument built, deployed, and the data
+then analyzed during the course of a PhD career.
+
