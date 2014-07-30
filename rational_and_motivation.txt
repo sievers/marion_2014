@@ -1,0 +1,89 @@
+°	 Provide the context (national and/or international) of the proposed research together with a review of the literature and other relevant resources.
+°	  State the strategic importance of the research and how the research is relevant to the selected NRF Focus Area (please read the Descriptions of the Focus Area Programme at www.nrf.ac.za).
+
+
+Emission and absorption due to the 21-cm spin flip transition of
+neutral Hydrogen (HI) have been proposed as valuable tools to probe
+the physics of the Universe at early times [?, ?, ?, ?, ?, ?, ?, ?,
+?]. Experiments studying the early universe through the 21-cm
+transition are of two kinds: mapping experiments that compute the
+power spectrum of 21-cm fluctations and all-sky experiments that
+measure the averaged 21-cm brightness temperature. These are also
+known as ‘global signal experiments’. Mapping experiments include the
+Precision Array for Probing the Epoch of Reionization (PAPER) [?, ?],
+the Giant Metrewave Radio Telescope Epoch of Reionization (GMRT-EoR)
+[?], the Low Frequency Array for Radio Astronomy (LOFAR) [?], the
+Murchison Widefield Array (MWA) [?], the Hydrogen Epoch of
+Reionization Array (HERA) [?] and the planned Square Kilometer Array
+(SKA) [?]. All-sky experiments include the Experiment to Detect the
+Global EoR Signature (EDGES) [?], Large-Aperture Experiment to Detect
+the Dark Ages (LEDA) [?]and the proposed Dark Ages Radio Explorer
+(DARE) [?].
+
+The first stars to form are composed of primordial elements. These
+stars, called Pop. III.1, are thought to form in dark matter minihalos
+of mass ≈ 10 6 − 10 8 M at a redshift z ≈ 20-30 [?, ?, ?, ?, ?, ?, ?,
+?, ?], and provide UV illumination of the HI. Supernovae from these
+3short lived, massive stars enriched the Universe with heavy elements,
+paving the way for the subsequent generation of lower mass stars and
+planets.
+
+Formation of the first stars is thus a subject of broad impact, but it
+is difficult to constrain these models due to the absence of
+observations at high redshifts. Formation of the first stars results
+in the production of Lyman-α photons, which are efficient in coupling
+the spin (T s ) and kinetic (T k ) temperatures of HI through the
+Wouthuysen-Field mechanism [?,?]. At z ≈ 20-30 the neutral gas kinetic
+temperature T k ∝ (1 + z) 2 is well below the CMB temperature (T γ
+). The Wouthuysen-Field mechanism sets T s = T k , and predicts a
+significant trough in the 21-cm brightness temperature (T b ) around
+the redshift of first star formation, with T b ∝ (T s − T γ )/T s ≈ −T
+γ /T k . Later, heating of the gas by X-rays or γ-rays sets T s =T k T
+γ . T b then the hyperfine transition enters the emission saturation
+regime where the brightness temperature is small and positive. Later
+the 21-cm brightness decreases to zero as the Universe reionizes. The
+processes described above result in a trough in the 21-cm brightness
+temperature spectrum. Detection and measurement of this trough
+requires the measurement of an all-sky spectrum, which is the goal of
+this proposed work. Such a measurement will provide information on the
+properties of the first stars and X-ray sources. [?, ?, ?,
+?]. Calculated 21-cm brightness spectra are shown in Fig. ?? from [?,
+?].
+
+A key difficulty for all these experiments is the much brighter
+Galactic continuum emis- sion, which must be subtracted in order to
+measure the 21-cm flux. At the low end of the frequency range of
+interest, 50 MHz, the Galactic brightness temperature at high Galactic
+latitude is about 5000K. The synchrotron spectrum declines as ∼ ν −2.5
+and at the high end, 250 MHz, the sky brightness has fallen to about
+80 K. Underneath this sloping foreground lies the 10-200 mK features
+due to 21-cm emission and absorption.
+
+The Galactic synchrotron emission mechanism is believed to produce a
+spectrum that is quite featureless apart from a smooth power law,
+allowing detection of the features we seek. However, to adequately
+remove even a smooth power law the brightness itself must be measured
+with a precision ∼ 10 −5 . This very precise calibration of the
+spectrometer is needed across about an octave of frequency. The
+calibration strategy that has worked best for us so far is to use the
+diurnal variation of the Galactic brightness as a an on-sky
+calibration source. We assume the spectrum of the Galactic emission is
+much smoother than the 21-cm signal we seek, and remove a low order
+polynomial in logν vs logI. This technique has the advantage that the
+entire system is calibrated end-to-end, without disconnecting the
+antenna. The disadvantage is that we must assume the spectral
+smoothness of the Galactic flux.
+
+Ionospheric conditions in the polar cap region may allow an exciting
+new type of cosmology observation using the 21-cm (1420MHz) line
+redshifted by a factor of 50 to 150 into the frequency range 10-30
+MHz. Telescopes have been proposed on the moon for this redshift range
+2009arXiv0909.1509B,2011AA...525A.128P,2009NewAr..53....1J,2007AAS...21113521L,
+but we now believe that winter conditions in the polar regions may
+make this work possible from the surface of the earth. At
+mid-latitudes, from the earth’s surface this spectral range is very
+difficult to use for astronomy because of strong shortwave broadcast
+signals and ionospheric reflection. In the winter, on the polar cap
+these broadcast signals are much weaker than at mid-latitudes, and may
+be entirely absent for periods of time. In addition, the ionosphere is
+transparent down to much lower frequencies than at mid-latitudes.
