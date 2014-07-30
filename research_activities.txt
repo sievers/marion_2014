@@ -1,2 +1,40 @@
 °	This section includes the workplan which should focus on research activities and their associated milestones.
 °	 Description should also include information on timeframes and responsibilities, how students will be involved, availability of specialized equipment, infrastructure and resources and other relevant information.
+
+Timeline:
+2014-2015 season: Trip to islands for preliminary site testing and
+deployment of previously built experiment (SCI-HI). Would be the 2
+week (?) turnaround period at one of the islands.
+
+2015: Development and testing of new 21-cm experiment (multiple
+antennae, better data collection hardware/software, possibly interferometry).
+
+2015-2016 season: Deployment of new experiment to Marion
+
+2016: Experiment improvements/repairs and analysis of 2015-2016 season data.
+
+2016-2017 season: Deployment of updated experiment to Gough (order of
+island visits can be swapped if logistically necessary).
+
+2017: Analysis of 2016-2017 season data.
+Equipment: Radio antennae (specially designed and built by
+collaboration). Electronics (calibration, amplifiers, filters,
+etc. either commercially available or developed by the
+collaboration). Data Processing Hardware and Software (ADC, Fourier
+transform, low power consumption, CASPER type gpu boards?). Data
+analysis machines (Access to computer cluster for data analysis and
+storage). Project data products should scale to about 100 Gb to 1 Tb
+in size. Experiment development hardware (eg portable Vector Network
+Analyzer, Spectrum Analyzer). Deployment resources (eg power
+generators, batteries).
+
+Student Involvement: There are opportunities for student involvement
+at each stage of the project. In the experiment development and
+testing phase, students will help to build and test each experiment
+component locally. This includes antenna design and testing, gpu
+programming, electronics component development and testing, and data
+analysis code development (including simulation work). During
+deployment students will help with data collection, including setup
+and maintenance of the system. After deployment, students will help
+with data analysis and system improvements, including developing
+system improvements based upon deployment experience. 
