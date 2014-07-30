@@ -1,18 +1,36 @@
 °	 Provide the context (national and/or international) of the proposed research together with a review of the literature and other relevant resources.
 °	  State the strategic importance of the research and how the research is relevant to the selected NRF Focus Area (please read the Descriptions of the Focus Area Programme at www.nrf.ac.za).
 
-Very few observations constrain models of the Dark Ages, during which the simple initial conditions seen with the Cosmic Microwave Background (CMB) evolved into the complex structures we see today. A key process during the Dark Ages is the formation of the first (Pop III.1) stars in dark matter minihaloes with about 1-100 million times the mass of the sun at redshifts z~20-30. These first, short-lived stars provided the universe with the heavy elements necessary for subsequent generations of stars and planets.
+Need to add context here.
+
+Very few observations constrain models of the Dark Ages, during which the simple initial conditions seen with the Cosmic Microwave Background (CMB) evolved into the complex structures we see today. A key process during the Dark Ages is the formation of the first (Pop III.1) stars in dark matter minihaloes with about 1-100 million times the mass of the sun at redshifts z~20-30.[1][2] These first, short-lived stars provided the universe with the heavy elements necessary for subsequent generations of stars and planets.
 
 Besides providing heavy elements, the first stars impacted the intergalactic medium (IGM), transforming it from neutral hydrogen into the ionized state we see today. We can learn about first star formation by examining the all-sky (global) 21 cm brightness temperature (Tb) in the IGM. Prior to reionization Tb is is characterized by decrement followed by increment, which can be understood through the following process.
 
-Lyman-alpha photons produced by the first stars couple the spin (Ts) and kinetic (Tk) temperature of the IGM through the Wouthuysen-Field mechanism. Because Tk is well below the CMB temperature (Tg) at z~20-30, this coupling causes a decrement in Tb proportional to 1-Tg/Tk. Later the IGM is heated by x-rays or gamma-rays and Ts rises above Tg, ending the Tb trough. 
+Lyman-alpha photons produced by the first stars couple the spin (Ts) and kinetic (Tk) temperature of the IGM through the Wouthuysen-Field mechanism.[3][4] Because Tk is well below the CMB temperature (Tg) at z~20-30, this coupling causes a decrement in Tb proportional to 1-Tg/Tk. Later the IGM is heated by x-rays or gamma-rays and Ts rises above Tg, ending the Tb trough. 
 
-Observations of the Tb trough can be made by measurement of the 21 cm global spectrum. The predicted depth (~ 0-300 mK), width (~ 0-50 MHz), and center frequency (~ 60-100 MHz) are all dependent on the model of first star formation. Measurement of the 21-cm global spectrum from 5-150 MHz would allow observers to investigate a large range of possible models of first star formation.
+Observations of the Tb trough can be made by measurement of the 21 cm global spectrum.[5][6] The predicted depth (~ 0-300 mK), width (~ 0-50 MHz), and center frequency (~ 60-100 MHz) are all dependent on the model of first star formation. Measurement of the 21-cm global spectrum from 5-150 MHz would allow observers to investigate a large range of possible models of first star formation.
 
-Several experiments seek to measure the Tb trough in the 21-cm global spectrum. These include the 'Large aperture Experiment to detect the Dark Ages' (LEDA), an expanded EDGES, the 'LOFAR Cosmic Dawn Search' (LOCOS), 'Sonda Cosmologica de las Islas para la deteccion de HIdrogeno neutro' (SCI-HI), and the proposed 'Dark Ages Radio Explorer' (DARE). 
+Several experiments seek to measure the Tb trough in the 21-cm global spectrum. These include the 'Large aperture Experiment to detect the Dark Ages' (LEDA) [7], an expanded EDGES [8], the 'LOFAR Cosmic Dawn Search' (LOCOS) [9][10], 'Sonda Cosmologica de las Islas para la deteccion de HIdrogeno neutro' (SCI-HI) [11], and the proposed 'Dark Ages Radio Explorer' (DARE) [12]. 
 
 Current experiments are limited by atmospheric effects and terrestrial radio frequency interference (RFI). On the low frequency end, the maximum usable frequency (MUF) for AM radio directly traces the frequency at which the atmosphere blocks signals from the sky. At mid-latitudes the MUF is generally above 30-40 MHz, limiting observations. However, at polar latitudes the MUF can be as low as 5 MHz; allowing observations to be made to lower frequencies and higher redshifts. 
 
-At some higher frequencies, experiments are limited by RFI from a number of sources. These include the FM radio band (88-108 MHz), where signals from local stations are larger than the signal from the sky. Signals from FM stations fall off as 1/r^2, so increasing the distance from any FM stations makes observations in this band possible. Testing with the SCI-HI experiment on Isla Guadalupe, about 250 km from the nearest radio sources, demonstrated the possibility of observation in remote locations. Marion and Gough islands, located much further from the nearest coast (about 1500-2500 km), should provide an excellent RFI environment for radio experiments. 
+At some higher frequencies, experiments are limited by RFI from a number of sources. These include the FM radio band (88-108 MHz), where signals from local stations are larger than the signal from the sky. Signals from FM stations fall off as 1/r^2, so increasing the distance from any FM stations makes observations in this band possible. Testing with the SCI-HI experiment on Isla Guadalupe, about 250 km from the nearest radio sources, has demonstrated the possibility of observation in remote locations. Marion and Gough islands, located much further from the nearest coast (about 1500-2500 km), should provide an excellent RFI environment for radio experiments. 
+
+
+References:
+[1] K. Omukai and F. Palla. Formation of the First Stars by Accretion. ApJ, 589:677-687,June 2003.
+[2] V. Bromm. Formation of the First Stars. Reports on Progress in Physics 76;11 November 2013.
+[3] S. A. Wouthuysen. On the excitation mechanism of the 21-cm (radio-frequency) interstellar hydrogen emission line. AJ, 57:31-32, 1952.
+[4] G. B. Field. Excitation of the Hydrogen 21-CM Line. Proceedings of the IRE, 46:240-250, January 1958.
+[5] P. A. Shaver, R. A. Windhorst, P. Madau, and A. G. de Bruyn. Can the reionization epoch be detected as a global signature in the cosmic background? Astronomy and Astrophysics, 345:380-390, May 1999.
+[6] J. R. Pritchard and A. Loeb. 21 cm cosmology in the 21st century. Reports on Progress in Physics, 75(8):086901, August 2012.
+[7] Large-Aperture Experiment to detect the Dark Ages (LEDA). LEDA, http :
+==www:cfa:harvard:edu=LEDA=science:html. July 2013.
+[8] J. D. Bowman, A. E. E. Rogers, and J. N. Hewitt. Toward Empirical Constraints on the Global Redshifted 21 cm Brightness Temperature During the Epoch of Reionization. ApJ, 676:1-9, March 2008.
+[9] M. P. van Haarlem, M. W. Wise, etal. LOFAR: The LOw-Frequency ARray. Astronomy and Astrophysics, 556:A2, August 2013.
+[10] H. K. Vedantham, L. V. E. Koopmans, A. G. de Bruyn, S. J. Wijnholds, B. Ciardi, and M. A. Brentjens. Chromatic effects in the 21 cm global signal from the cosmic dawn. MNRAS 437:1056-1069 January 2014
+[11] T. C. Voytek, A. Natarajan, J. M. Jauregui-Garcia, J. B. Peterson, and O. Lopez-Cruz. Probing the Dark Ages at Z~20: The SCI-HI 21 cm All-Sky Spectrum Experiment. ApJ 782 L9, February 2014.
+[12] J. O. Burns, J. Lazio, S. Bale, J. Bowman, R. Bradley, C. Carilli, S. Furlanetto, G. Harker, A. Loeb, and J. Pritchard. Probing the rst stars and black holes in the early Universe with the Dark Ages Radio Explorer (DARE). Advances in Space Research, 49:433-450, February 2012.
 
 
