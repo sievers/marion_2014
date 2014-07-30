@@ -5,3 +5,11 @@ A statement of process progress
 Presumably here we would talk about the SCI-HI project? Are there any other
 projects that are direct precursors? Jeff ’s RFI site testing experience? CoI
 previous antarctic experience?
+
+
+The 'Sonda Cosmologica de las Islas para la deteccion de HIdrogeno neutro' (SCI-HI) experiment is an ongoing project led by CoI Jeffrey Peterson. This experiment has successfully made preliminary measurements of the 21 cm global spectrum from 60-90 MHz, providing modest constraints. This project is a direct precourser to the proposed project. The experiment design and data analysis provide a template which can be expanded in future experiments. 
+
+Both CoI Jeffrey Peterson and CoI Cynthia Chang have extensive experience with Antarctic expeditions (with a total of over 20 visits including one winter over between them). 
+
+CoI Jeffrey Peterson has also previously made evalutions of site viability; including measurements at the South Pole. 
+

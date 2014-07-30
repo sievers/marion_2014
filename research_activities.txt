@@ -1,4 +1,4 @@
-°	This section includes the workplan which should focus on research activities and their associated milestones.
+﻿°	This section includes the workplan which should focus on research activities and their associated milestones.
 °	 Description should also include information on timeframes and responsibilities, how students will be involved, availability of specialized equipment, infrastructure and resources and other relevant information.
 
 Timeline:
@@ -17,7 +17,11 @@ antennae, better data collection hardware/software, possibly interferometry).
 island visits can be swapped if logistically necessary).
 
 2017: Analysis of 2016-2017 season data.
-Equipment: Radio antennae (specially designed and built by
+
+
+Equipment: 
+
+Radio antennae (specially designed and built by
 collaboration). Electronics (calibration, amplifiers, filters,
 etc. either commercially available or developed by the
 collaboration). Data Processing Hardware and Software (ADC, Fourier
@@ -28,7 +32,9 @@ in size. Experiment development hardware (eg portable Vector Network
 Analyzer, Spectrum Analyzer). Deployment resources (eg power
 generators, batteries).
 
-Student Involvement: There are opportunities for student involvement
+Student Involvement: 
+
+There are opportunities for student involvement
 at each stage of the project. In the experiment development and
 testing phase, students will help to build and test each experiment
 component locally. This includes antenna design and testing, gpu

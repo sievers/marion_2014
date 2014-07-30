@@ -2,9 +2,6 @@
 
 The primary goals for this proposal are two fold.
 
-First, to test the islands (Marion, Gough) for suitability in low frequency radio astronomy applications. In particular, to investigate the Radio Frequency Interference (RFI) environment on the islands over the course of the year in the frequency range of 10-150 MHz.
+First, to test the islands (Marion, Gough) for suitability in low frequency radio astronomy applications. In particular, to investigate the Radio Frequency Interference (RFI) environment on the islands over the course of the year in the frequency range of 5-150 MHz.
 
-(Is this the frequency range we want to target or do we want to expand to
-higher frequencies?)
-
-Second, to develop and deploy a simple radio telescope system for measurement of theglobal Hydrogen 21-cm signal in the same frequency range (10-150 MHz).
+Second, to develop and deploy a simple radio telescope system for measurement of the global hydrogen 21-cm signal in the same frequency range (5-150 MHz).

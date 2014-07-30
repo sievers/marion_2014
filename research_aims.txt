@@ -1,2 +1,10 @@
 °	 Provide details on the aims of the research project.
 °	  These should focus on research-related aims and not capacity or human resource development aims.
+
+The primary goals for this proposal are two fold.
+
+First, to test the islands (Marion, Gough) for suitability in low frequency radio astronomy applications. In particular, to investigate the Radio Frequency Interference (RFI) environment on the islands over the course of the year in the frequency range of 5-150 MHz.
+
+Second, to develop and deploy a simple radio telescope system for measurement of the global hydrogen 21-cm signal in the same frequency range (5-150 MHz).
+
+
