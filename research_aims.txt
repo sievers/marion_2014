@@ -1,2 +1,43 @@
 °	 Provide details on the aims of the research project.
 °	  These should focus on research-related aims and not capacity or human resource development aims.
+
+The research aims of this project are as follows:  
+
+1) Test Gough and Marion islands to see if they are suitable for
+measuring the global signal from the first generation of stars.
+Man-made radio frequency interference (RFI) is a serious problem for
+making this measurement - to get away from it, other groups have begun
+pushing for deployments to the far side of the moon!  We hope that
+Marion and/or Gough are remote enough to enable this measurement to be
+done from the ground, for an extremely modest cost.  This involved
+deploying the SCI-HI experiment to Gough and Marion, an instrument
+build by Tabitha Voytek, a graduating PhD student of co-I Peterson.
+Previous work by team members using SCI-HI has shown that 200 km off
+the coast is not far enough. Both Gough and Marion should be tested,
+since Marion is further from small population centres, while Gough is
+further from any continental populations (but significantly closer to
+the main islands of Tristan da Cunha).
+
+
+2) Develop/improve techniques for removing contaminating signals from
+within the Milky Way.  Substantial work has already been done in the
+previous deployment of SCI-HI off the coast of Mexico.  However,
+should we make a detection of the first stars (which is possible even
+in the site testing phase), more work on galactic removal will be
+required.
+
+3) Design/build/deploy an improved experiment for a full season at the
+most appropriate site, chosen in consultation with SANAP.  This
+phase-2 experiment would draw on the knowledge learned with SCI-HI to
+improve the design, mitigating instrumental systematics.  The
+instrument would also be designed to make the first constraints ever
+on the properties of the universe during the cosmolical dark ages,
+the era after the big bang but before the first stars formed.
+
+4) Using the measurements from the phase-2 experiment, study the first
+stars in the universe.  Through this data we will be able to tell the
+relative importance of stars and quasars in lighting up the universe,
+which is currently unknown.  We will also be able to trace out when
+and how quickly the first stars formed, and how this period ended as
+the neutral hydrogen gets ionized.  
+

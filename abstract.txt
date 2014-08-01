@@ -1,0 +1,28 @@
+We propose study the birth of the first stars in the universe, using
+low-frequency (<150 MHz) observations.  The first stars were radically
+different from the ones we see today, and so we understand very little
+about the universe during their era, just a few hundred million years
+after the big bang.  One of the best ways of studying them is by using
+the 21-cm emission line of neutral hydrogen.  Today, their emission
+has been redshifted by the expansion of the universe to low (<150 MHz)
+frequencies.  Perhaps the key challenge in carrying out these
+observations is radio frequency interference (RFI) from man-made
+sources, which can swamp the desired signal even when hundreds of
+kilometres away from the nearest sources of RFI.  The sub-Antarctic
+islands provide a unique opportunity to see the first stars due to
+their extreme remoteness, 2000+ km from the nearest continental
+landmasses.  We propose to deploy SCI-HI, and instrument designed to
+make this measurement, for short periods to Gough and Marion to determine their
+suitability for studies of the first stars.  SCI-HI has already been
+deployed to Guadalupe Island 200 km off the coast of Mexico, where RFI
+was an order of magnitude larger than the expected astronomical
+signal.  If initial results are promising, we propose to build a
+follow-on experiment at the most promising site that would take data
+over the course of a winter, possibly seeing the global signal from
+the first time ever, letting us learn how the universe lit up.
+Further, ionospheric conditions during the winter may mean we can
+measure, for the first time, the universe during the dark ages that
+lasted from shortly after the big bang until the formation of the
+first stars.  The extreme remoteness of the islands provides a unique
+geographical advantage for this work, which would be impossible to do
+from virtually anywhere else on the planet.

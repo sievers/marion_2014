@@ -14,7 +14,9 @@ carry out the detailed data analysis - this can happen at either the
 Master's or PhD level, depending on student interest and
 availability.  If at a PhD level, the student will go beyond data
 analysis to do theoretical work to better understand the implications
-to cosmology of our results.  
+to cosmology of our results.  Graduating PhD student Tabitha Voytek,
+who build SCI-HI, will lead the deployments, and we expect her to come
+to UKZN as a postdoc. 
 
 There are many student opportunities during construction of the
 phase-2 instrument.  Instrument components are quite modular, so it

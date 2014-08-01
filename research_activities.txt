@@ -1,32 +1,64 @@
 °	This section includes the workplan which should focus on research activities and their associated milestones.
 °	 Description should also include information on timeframes and responsibilities, how students will be involved, availability of specialized equipment, infrastructure and resources and other relevant information.
 
-Timeline:
-2014-2015 season: Trip to islands for preliminary site testing and
-deployment of previously built experiment (SCI-HI). Would be the 2
-week (?) turnaround period at one of the islands.
+Timeline:  This is our ideal timeline and is achievable if space on
+the ship and permission to set up SCI-HI for a few days on either of
+the sub-Antarctic islands is obtained.  If this is not possible, all
+dates could be pushed back by a year.  Note that if ship schedules
+permit, we might be ablto to site test both Marion and Gough in the
+same summer season.
 
-2015: Development and testing of new 21-cm experiment (multiple
-antennae, better data collection hardware/software, possibly interferometry).
+2015 summer season: Trip to islands for preliminary site testing and
+deployment of previously built experiment (SCI-HI). Would only be
+there during the ship  turnaround period at one of the islands.
+Either Marion or Gough would be suitable, depending on logistics.  MSc
+student to accompany SCI-HI builder Tabitha Voytek.  Experiment
+development hardware (portable Vector Network Analyzer, Spectrum
+Analyzer.  If available on-site can be borrowed, otherwise must be
+purchased). Deployment resources (eg power generators, batteries). 
 
-2015-2016 season: Deployment of new experiment to Marion
 
-2016: Experiment improvements/repairs and analysis of 2015-2016 season data.
+End of 2015:  paper describing RFI environment and any possible
+science detection to be published.  MSc/Phd Thesis.
 
-2016-2017 season: Deployment of updated experiment to Gough (order of
-island visits can be swapped if logistically necessary).
+2016 summer season: Trip to the other island to investigate RFI there.  Note
+that both islands should be checked - Marion is further from nearest
+inhabited neighbours, but Gough is further from major population
+centres.  MSc student to accompany Tabitha Voytek.  Same hardware
+requirements as previous year.
 
-2017: Analysis of 2016-2017 season data.
-Equipment: Radio antennae (specially designed and built by
-collaboration). Electronics (calibration, amplifiers, filters,
+End of 2016: paper describing RFI environment at this island and any
+possible science detection to be published.  Analysis to be improved
+over previous year.  If first paper is MSc student, this would be a
+different one.  If PhD, would be the same.
+
+
+2016-2017: Development and testing of new 21-cm experiment (improved
+antenna,  better data collection hardware/software, extending to lower
+frequency).  Development to
+happen at UKZN and at Carnegie-Mellon University.  One MSc student
+plus 3-6 honours students.  Equipment: Radio antennae (specially
+designed and built by collaboration). Electronics (calibration, amplifiers, filters,
 etc. either commercially available or developed by the
 collaboration). Data Processing Hardware and Software (ADC, Fourier
-transform, low power consumption, CASPER type gpu boards?). Data
-analysis machines (Access to computer cluster for data analysis and
-storage). Project data products should scale to about 100 Gb to 1 Tb
-in size. Experiment development hardware (eg portable Vector Network
-Analyzer, Spectrum Analyzer). Deployment resources (eg power
-generators, batteries).
+transform, low power consumption, SNAP/ROACH boards).
+
+
+2017-2018 season (if earlier investigations show good RFI): deploy
+updated instrument for full season.  Site TBD based on Gough and
+Marion site testing.
+
+2018: Analysis of 2017-2018 season data.   Data analysis machines -
+analysis can be carried out on new UKZN 1,000 core cluster.  Project
+data products should scale to a very modest 100 Gb to 1 Tb in size.
+Preparation for and anlysis of this data is a PhD thesis, separate
+from the MSc thesis for building the experiment.
+
+End 2018:  Publish final results from improved experiment.  Anticipate
+a minimum of four papers in this release:  one describing experiment,
+one describing data processing and cleaning of galactic foregrounds,
+one describing science result and interpretation, and (at least) one
+describing very low frequency observation of the cosmic dark ages.
 
 Student Involvement: There are opportunities for student involvement
 at each stage of the project. In the experiment development and

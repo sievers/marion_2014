@@ -3,57 +3,59 @@
 
 
 Emission and absorption due to the 21-cm spin flip transition of
-neutral Hydrogen (HI) have been proposed as valuable tools to probe
-the physics of the Universe at early times [?, ?, ?, ?, ?, ?, ?, ?,
-?]. Experiments studying the early universe through the 21-cm
-transition are of two kinds: mapping experiments that compute the
-power spectrum of 21-cm fluctations and all-sky experiments that
-measure the averaged 21-cm brightness temperature. These are also
-known as ‘global signal experiments’. Mapping experiments include the
-Precision Array for Probing the Epoch of Reionization (PAPER) [?, ?],
-the Giant Metrewave Radio Telescope Epoch of Reionization (GMRT-EoR)
-[?], the Low Frequency Array for Radio Astronomy (LOFAR) [?], the
-Murchison Widefield Array (MWA) [?], the Hydrogen Epoch of
-Reionization Array (HERA) [?] and the planned Square Kilometer Array
-(SKA) [?]. All-sky experiments include the Experiment to Detect the
-Global EoR Signature (EDGES) [?], Large-Aperture Experiment to Detect
-the Dark Ages (LEDA) [?]and the proposed Dark Ages Radio Explorer
-(DARE) [?].
+neutral atomic Hydrogen (referred to as HI by astronomers) have been proposed as valuable tools to probe
+the physics of the Universe at early times.  Experiments studying the
+early universe through the 21-cm transition are of two kinds: mapping
+experiments that compute the power spectrum of 21-cm fluctuations and
+all-sky experiments that measure the averaged 21-cm brightness
+temperature. These are also known as ‘global signal
+experiments’. Mapping experiments include the Precision Array for
+Probing the Epoch of Reionization (PAPER), the Giant Metrewave
+Radio Telescope Epoch of Reionization (GMRT-EoR), the Low
+Frequency Array for Radio Astronomy (LOFAR), the Murchison
+Widefield Array (MWA), the Hydrogen Epoch of Reionization Array
+(HERA, recently awarded seed funding by the US National Science
+Foundation for construction in South Africa) and the planned Square
+Kilometer Array (SKA). All-sky 
+experiments include the Experiment to Detect the Global EoR Signature
+(EDGES), Large-Aperture Experiment to Detect the Dark Ages (LEDA) and the proposed Dark Ages Radio Explorer (DARE).
 
 The first stars to form are composed of primordial elements. These
-stars, called Pop. III.1, are thought to form in dark matter minihalos
-of mass ≈ 10 6 − 10 8 M at a redshift z ≈ 20-30 [?, ?, ?, ?, ?, ?, ?,
-?, ?], and provide UV illumination of the HI. Supernovae from these
-3short lived, massive stars enriched the Universe with heavy elements,
-paving the way for the subsequent generation of lower mass stars and
-planets.
+stars, called Population III.1, are thought to form in dark matter minihalos
+of mass ≈ 1-100 million times the mass of the sun at a redshift z ≈
+20-30 (100-200 million years after the big bang) and provide ultraviolet
+illumination of the HI. Supernovae from these short lived, massive stars enriched the Universe with heavy elements,
+paving the way for the subsequent generations of lower mass stars and
+planets that we see today.
 
 Formation of the first stars is thus a subject of broad impact, but it
 is difficult to constrain these models due to the absence of
 observations at high redshifts. Formation of the first stars results
-in the production of Lyman-α photons, which are efficient in coupling
-the spin (T s ) and kinetic (T k ) temperatures of HI through the
-Wouthuysen-Field mechanism [?,?]. At z ≈ 20-30 the neutral gas kinetic
-temperature T k ∝ (1 + z) 2 is well below the CMB temperature (T γ
-). The Wouthuysen-Field mechanism sets T s = T k , and predicts a
-significant trough in the 21-cm brightness temperature (T b ) around
-the redshift of first star formation, with T b ∝ (T s − T γ )/T s ≈ −T
-γ /T k . Later, heating of the gas by X-rays or γ-rays sets T s =T k T
-γ . T b then the hyperfine transition enters the emission saturation
-regime where the brightness temperature is small and positive. Later
-the 21-cm brightness decreases to zero as the Universe reionizes. The
+in the production of Lyman-alpha photons, which are efficient in coupling
+the spin (T_s ) and kinetic (T_k ) temperatures of HI through the
+Wouthuysen-Field mechanism. At z ≈ 20-30 the neutral gas kinetic
+temperature T_k is proportional to (1 + z)^2 is well below the CMB temperature
+(T_CMB). The Wouthuysen-Field mechanism sets T s = T k , and predicts
+a significant trough in the 21-cm brightness temperature (T_b, the
+quantity actually measured by telescopes) around the redshift of first
+star formation, with T_b proportional to (T_s − 
+T_CMB )/T_S ≈ −T_CMB/T_k . Later, heating of the gas by X-rays or
+gamma-rays sets T_s=T_k >> T_CMB. The brightness temperature of the
+hyperfine transition then enters the emission saturation
+regime where T_b is small and positive. Later
+the 21-cm brightness decreases to zero as the Universe reionizes and
+there is no more neutral hydrogen left. The
 processes described above result in a trough in the 21-cm brightness
 temperature spectrum. Detection and measurement of this trough
 requires the measurement of an all-sky spectrum, which is the goal of
 this proposed work. Such a measurement will provide information on the
-properties of the first stars and X-ray sources. [?, ?, ?,
-?]. Calculated 21-cm brightness spectra are shown in Fig. ?? from [?,
-?].
+properties of the first stars and X-ray sources. 
+%Calculated 21-cm brightness spectra are shown in Fig. ?? from [?,?].
 
 A key difficulty for all these experiments is the much brighter
-Galactic continuum emis- sion, which must be subtracted in order to
+Galactic continuum emission, which must be subtracted in order to
 measure the 21-cm flux. At the low end of the frequency range of
-interest, 50 MHz, the Galactic brightness temperature at high Galactic
+interest for reionization, 50 MHz, the Galactic brightness temperature at high Galactic
 latitude is about 5000K. The synchrotron spectrum declines as ∼ ν −2.5
 and at the high end, 250 MHz, the sky brightness has fallen to about
 80 K. Underneath this sloping foreground lies the 10-200 mK features
@@ -63,27 +65,52 @@ The Galactic synchrotron emission mechanism is believed to produce a
 spectrum that is quite featureless apart from a smooth power law,
 allowing detection of the features we seek. However, to adequately
 remove even a smooth power law the brightness itself must be measured
-with a precision ∼ 10 −5 . This very precise calibration of the
+with a precision of a part in 100,000. This very precise calibration of the
 spectrometer is needed across about an octave of frequency. The
 calibration strategy that has worked best for us so far is to use the
-diurnal variation of the Galactic brightness as a an on-sky
-calibration source. We assume the spectrum of the Galactic emission is
+daily variation of the Galactic brightness as the Milky Way rises and
+sets as a an on-sky calibration source. We assume the spectrum of the Galactic emission is
 much smoother than the 21-cm signal we seek, and remove a low order
-polynomial in logν vs logI. This technique has the advantage that the
+polynomial in log(frequency) vs. log(intensity). This technique has the advantage that the
 entire system is calibrated end-to-end, without disconnecting the
 antenna. The disadvantage is that we must assume the spectral
-smoothness of the Galactic flux.
+smoothness of the Galactic flux (although that appears to be a very
+good description).
 
-Ionospheric conditions in the polar cap region may allow an exciting
-new type of cosmology observation using the 21-cm (1420MHz) line
-redshifted by a factor of 50 to 150 into the frequency range 10-30
-MHz. Telescopes have been proposed on the moon for this redshift range
-2009arXiv0909.1509B,2011AA...525A.128P,2009NewAr..53....1J,2007AAS...21113521L,
+Observations from the South African sub-Antarctic islands may also
+allow an exciting new cosmological measurement.  The upper atmosphere
+has a layer where incoming solar radiation ionizes molecules in the
+air, called the ionosphere.  At low frequencies, the ionosphere
+reflects radio waves, with the cutoff set by the density of
+ions in the ionosphere.  This phenomenon is well known in radio
+communications and is why low-frequency transmissions (like AM radio) can sometimes be
+picked up from thousands of kilometres away.  The highest frequency at
+which radio waves are reflected is called the Maximum Usable Frequency
+(MUF) since frequencies above that only work for line-of-sight
+communications.  This also means astrophysical signals below the MUF
+are reflected back into space and so cannot be observed from the
+ground.  The MUF tends to be highest (worst for astronomy) where the
+sun is overhead, so summer/equatorial regions have the highest MUFs,
+and day is worse than night.  During polar winters, the lack of
+sunlight means that the ionosphere substantially recombines, and the
+MUF can drop considerably.  The MUF over most of the planet is in the
+20-40 MHz range, but nights at Marion routinely drop to 6-7 MHz
+(realtime MUF maps can be seen at
+http://www.spacew.com/www/realtime.php).  This means that we may be
+able to do astrophysics at frequencies that are impossible to do from
+any of the major radio observatories on Earth.  We may be able to use
+the 21-cm hydrogen line to observe the universe not just at redshifts
+around 20, but at redshifts of 50-150, well before the first stars (we
+think) when the universe is as young as 10 million years old (less
+than one thousandth of its current age of around 14 billion years
+old).  Telescopes have been proposed on the moon for this redshift range
+(2009arXiv0909.1509B,2011AA...525A.128P,2009NewAr..53....1J),
 but we now believe that winter conditions in the polar regions may
 make this work possible from the surface of the earth. At
 mid-latitudes, from the earth’s surface this spectral range is very
 difficult to use for astronomy because of strong shortwave broadcast
 signals and ionospheric reflection. In the winter, on the polar cap
 these broadcast signals are much weaker than at mid-latitudes, and may
-be entirely absent for periods of time. In addition, the ionosphere is
-transparent down to much lower frequencies than at mid-latitudes.
+be entirely absent for periods of time.  The work proposed here, at no
+additional cost, would be a key step in understanding if this era of
+the universe can be studied from the ground

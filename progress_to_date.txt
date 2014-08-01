@@ -5,3 +5,15 @@ A statement of process progress
 Presumably here we would talk about the SCI-HI project? Are there any other
 projects that are direct precursors? Jeff ’s RFI site testing experience? CoI
 previous antarctic experience?
+
+The proposing team are experts in the field, and will be substantially
+repeating work they have done in the past with SCI-HI.  The unique,
+ultra-remoteness of Marion and Gough means that the same experiment
+could yield dramatically better data, and if successful, would be a
+major discovery.  PI Sievers is an expert in data analysis, and co-I's
+Chiang and Peterson are skilled hardware builders.  In addition, they
+have extensive experience working in polar conditions, with Peterson
+and Chiang having 20 South Pole deployments (including one
+winter-over) between them, and Sievers and Peterson also have
+extensive experience deploying and running experiments in the harsh
+Chilean Andes at altitudes above 5000 metres.  
