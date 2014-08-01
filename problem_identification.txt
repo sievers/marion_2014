@@ -2,6 +2,125 @@
 
 The primary goals for this proposal are two fold.
 
+<<<<<<< HEAD
 First, to test the islands (Marion, Gough) for suitability in low frequency radio astronomy applications. In particular, to investigate the Radio Frequency Interference (RFI) environment on the islands over the course of the year in the frequency range of 5-150 MHz.
+=======
+The universe was a very different place in its infancy.  Immediately
+after the big bang, there were no stars or galaxies, or even any
+elements heaver than helium (except for trace amounts of lithium and
+beryllium).  Initially, the universe was too had for electrons and
+protons to stick together to form neutral atoms, and since free
+electrons are extremely efficient at scattering light, the universe
+was opaque.  About 400,000 years after the big bang, the expanding
+universe had cooled enough so that neutral hydrogen atoms formed, and
+the universe became transparent.  We can see a snapshot of the
+universe at this early time, called the Cosmic Microwave Background
+(CMB).  We know from observations of the CMB that the universe was
+then dark for around 500 million years at which point it lit up as the
+first objects in the cosmos formed, but we know very little about how
+this happened.  Even the 500-million year estimate for the dark ages
+has considerable uncertainty in it. Today, heavy elements like carbon
+and oxygen (called metals by astronomers) play a key role in how stars
+form, even if they are present only in trace amounts.  However, the
+first generation of stars would have looked very different due to the
+total lack of metals.  They are expected to have been heaver and burnt
+out much more quickly than today's stars.  In fact, despite intensive
+searches, no metal-free stars have ever been found.  Because of the
+finite speed of light, by looking far enough away, we can look back in
+time and in principle watch the universe light up, but the distances
+involved are tremendous and so we have yet to see the first stars.
+So, due to the lack of data. we have only a very poor understanding of
+the cosmic dawn.  One of the main goals of astronomy in the coming
+decade is to try to understand how the universe went from dark to
+light, full of stars and galaxies.
+
+Perhaps the single most important tool we have to study the first
+stars is the hyperfine line of atomic hydrogen.  There is a slight
+energy difference between when the electron and proton spins are
+aligned and opposite to each other, causing hydrogen to have a
+spectral line at a rest-frame wavelength of 21-cm, or a frequency of
+1.4 GHz.  Because the expansion of the universe stretches out light
+travelling through it, we expect to see the 21-cm radiation from the
+era of the first stars at much lower frequencies, around 100 MHz.
+Light emitted earlier in the universe has been stretched out more, so
+by looking at the hydrogen brightness as a function of frequency, we
+can actually watch the first stars be born, heat the hydrogen, and
+eventually ionize it, causing the 21-cm line to disappear.  
+
+A first detection of the 21-cm line from the era of the first stars
+(called the Epoch of Reionization or EoR) is one of the holy grails in
+astronomy right now, and several groups are racing to measure it.
+There are two main, and complementary, ways in which astronomers are
+searching for it.  The first is using arrays of radio telescopes to
+search for fluctuations in the 21-cm background caused by the
+clumpiness of the young universe.  The Square Kilometre Array (SKA)
+site in the Karoo hosts one such array (the Precision Array for
+Probing the Epoch of Reionization, or PAPER) that has published some
+of the best limits so far, and will host the next-generation Hydrogen
+Epoch of Reionization Array, or HERA.  Proposers Sievers and Chiang
+are part of both these efforts.  The second approach is to look at the
+average hydrogen brightness across the whole sky.  This would tell us
+the mean gas behaviour, and is information that arrays of telescopes
+like PAPER and HERA are insensitive to.  Co-I Peterson is one of the
+world leaders in this area, and his experiment SCI-HI has published
+some of the best limits on the mean (global) hydrogen signal.  The
+global brightness signal is actually fairly large - models vary
+substantially due to our poor understanding of the universe at these
+early times, but typical signals are in the range of a tenth of a
+degree.  The challenge is in cleaning contaminating signals out from
+the desired cosmological one.  The Milky Way emits copious amounts at
+these low frequencies, with the average sky brightness ~1000K.  So, to
+clean out the Milky Way is an analysis challenge.  Further, you may
+recognize 100 MHz from FM radio stations.  At the critical frequencies
+for EoR observations, man-made radio-frequency interference (RFI) is a
+considerable challenge, and over the vast majority of land swamps even
+the emission from the galaxy.  Global signal experiments like SCI-HI are
+significantly more sensitive to RFI than the arrays searching for the
+small-scale signals.  The flip side of this is that the global signal is
+significantly larger than the small-scale one, so if the galaxy and
+RFI can be dealt with, one only needs a few hours to a few days of
+observing time with a very simple instrument to measure the EoR
+signal.
+
+South Africa has a unique geographical advantage in searching for the
+global signal.  The sub-Antarctic islands (Marion and Gough) are some of
+the most remote places on earth, 2000+ km from the nearest major
+population centres.  Peterson & collaborators have already deployed
+SCI-HI to Guadalupe Island, a volcanic island about 200 km of the
+coast of Mexico.  While greatly reduced compared to continental sites,
+there was still about one Kelvin of RFI (Voytek et al. 2014), an order
+of magnitude larger than the expected signal.  That makes measuring
+the global signal virtually impossible, since there is no easy way to
+clean the RFI out from the data (unlike the galaxy, which should have
+a simple behaviour as a function of frequency).  Since they ten times
+further from continental landmasses and have no heavily populated
+islands nearby, we expect Marion and Gough to have much less RFI,
+hopefully low enough to allow us to directly measure, for the first
+time, the original stars.  Our proposed project has two phases:
+first, redeploying the SCI-HI experiment to Marion and Gough to test
+the RFI environments there.  This would only require a few days at
+each location and so would not require a winter-over.  Rather, just
+going down via ship and running SCI-HI while the ship is in port
+should be sufficient to determine if either island would be
+appropriate.  SCI-HI is small and highly portable - about 2 metres
+across, with an ordinary desktop computer required to run it, so
+environmental impact would be negligible.  Ideally, we would also set
+up SCI-HI away from the science bases to minimize locally generated
+RFI (from, e.g. computers or power generation).  Should either site
+look promising, the next phase would be to mount an antenna for a
+winter season that would use knowledge gained from SCI-HI to improve
+the design, and measure the global 21-cm EoR signal. 
+
+
+
+
+
+
+
+
+
+
+First, to test the islands (Marion, Gough) for suitability in low frequency radio astronomy applications. In particular, to investigate the Radio Frequency Interference (RFI) environment on the islands over the course of the year in the frequency range of 10-150 MHz.
+>>>>>>> upstream/master
 
 Second, to develop and deploy a simple radio telescope system for measurement of the global hydrogen 21-cm signal in the same frequency range (5-150 MHz).

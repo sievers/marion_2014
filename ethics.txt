@@ -1,2 +1,9 @@
 °	 Provide an indication of any ethical implications and / or legislative compliance requirements of the proposed research and detail how these requirements have been / will be met.
 
+We do not expect to have any ethical considerations.  The proposed
+work leaves no permanent infrastructure, emits neither sound nor light, and should have no impact on
+wildlife.  While we ideally hope to deploy SCI-HI to various locations
+on the islands, if that present difficulties, the experiments can be
+carried out from the station grounds if we can have the requested
+radio-quiet times.  
+

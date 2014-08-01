@@ -1,1 +1,32 @@
 °	 Please enter a selection of best peer-reviewed research outputs of Co-investigators (no more than 10 in total)
+
+"Probing the Dark Ages at z ~ 20: The SCI-HI 21 cm All-sky Spectrum
+Experiment" - Voytek, Natarajan, Jauregui-Garcia, Peterson, and
+Lopez-Cruz, ApJL 782, 9 (2014).  Initial results from the SCI-HI
+experiment, which we would deploy to Marion and Gough as part of this
+proposal.  This shows the need to go to extremely remote islands. 
+
+"Submillimeter Site Testing at Dome C, Antarctica" - Calisse et
+al. (inc. Peterson), PASA 21, 256 (2004).  Example of Peterson's
+experience testing suitability of remote and harsh sites for
+suitability of astronomical research.  
+
+"An intensity map of hydrogen 21-cm emission at redshift z~0.8" -
+Chang, Pen, Bandura, and Peterson, Nature 466, 463 (2010).  First
+detection of atomic hydrogen at high redshift, which has now spawned
+an industry within astrophysics.  
+
+"Detection of B-Mode Polarization in the Cosmic Microwave Background
+with Data from the South Pole Telescope" - Hanson et al. (including
+Chiang), PRL 111, 1301 (2013).  First detection of B-modes in the CMB
+using data collected by Chiang while wintering over at the South Pole.
+
+"The Cosmic Background Imager" - Padin et al. (including Sievers),
+PASP 114, 83 (2002).  Instrument paper describing the Cosmic
+Background Imager, a radio telescope Sievers helped build and deploy
+to 5000m in the Chilean Atacama.
+
+"The Atacama Cosmology Telescope: cosmological parameters from three
+seasons of data" - Sievers et al., JCAP 10, 60 (2013).  Main results
+paper from another telescope at >5000m, cited nearly 200 times in the
+year since it has been published.

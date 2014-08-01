@@ -1,5 +1,6 @@
 ﻿°	 Detailed descriptions should be provided on the research approach, methods and techniques.
 °	  Description should also include data collection and analysis and other relevant information.
+<<<<<<< HEAD
 test
 
 Several experiments seek to measure the Tb trough in the 21-cm global spectrum. These include the 'Large aperture Experiment to detect the Dark Ages' (LEDA), an expanded EDGES, the 'LOFAR Cosmic Dawn Search' (LOCOS), 'Sonda Cosmologica de las Islas para la deteccion de HIdrogeno neutro' (SCI-HI), and the proposed 'Dark Ages Radio Explorer' (DARE). 
@@ -10,3 +11,99 @@ The Galactic synchrotron emission mechanism is believed to produce a spectrum th
 
 More sophisticated techniques may be developed and tested as part of the proposed project. 
 
+=======
+
+The first phase of this project is to deploy SCI-HI to Marion and
+Gough Islands to test the RFI environments there.  This would entail
+going, in consecutive seasons, to Marion & Gough aboard the ship,
+setting up SCI-HI, and taking a few days of data.  Graduating PhD
+student Tabitha Voytek, who built SCI-HI and deployed it on Guadalupe
+Island as part of her thesis with co-I Peterson, has agreed to carry
+out these deployments as well, and we expect her to come to UKZN as a postdoc.  A master's student will accompany her,
+assisting in the deployment, and carry out low-level data processing
+and data quality checks for their thesis.  We are happy to go to
+either Marion or Gough first.  Due to the sensitivity of the
+experiment to RFI, we would like to request some short periods of
+radio-quiet at the research stations while SCI-HI is taking data.
+This would require things like turning off computers and any
+transmitting devices (like radars or satellite communication
+devices).  For the case of strong local transmitters, even if they are
+operating outside our desired frequency bands, the power can become so
+large that it drives our instruments nonlinear, which makes it
+impossible to measure the cosmological signal.  The amount of
+radio-quiet time can be quite modest - half an hour every hour over
+the course of two days.  We ideally would also
+set up SCI-HI on places on the islands far from the research stations
+and their locally generated RFI, ideally with a hill/mountain
+separating SCI-HI from the stations.  Our first choice would be to run
+SCI-HI with a small (400 Watt) portable generator, but if
+environmental concerns preclude that, SCI-HI can also be run for short
+periods using batteries.  The team already has experience with SCI-HI
+deployment and analysis, and so results from these deployments can be
+interpreted quickly, particularly with respect to measuring the RFI
+level.  SCI-HI is quite robust, and can easily withstand winds up to
+80 km/h.  If possible, we would like to carry this phase out during
+2015 and 2016, but 2016 and 2017 would also be acceptable.  
+
+If the initial short deployments show that either site is promising,
+we will move to phase-2, which consists of installing a log-periodic
+antenna for a season and using the experience gained from SCI-HI to
+improve the instrument design.  Suitable log-periodic antennas can be
+obtained commercially, and are designed for permanent outdoor
+deployment and can withstand up to hurrican-force winds.  The antennas
+consist of a central pole with wires of varying lenghts coming out of
+it, which means the wind loading is very low, and so with more
+attention paid to installing of guy wires, the antenna could be
+installed so that it can withstand even stronger winds.  The
+commercial log-periodic antennas have good response all the way down
+to 3 MHz, and so at the same time as we measure the global EoR signal,
+we will also find out if we can study the dark ages from the ground
+with this phase of the experiment.  If we move onto phase-2, then
+students, in collaboration with Peterson, Sievers, Voytek, and Chiang
+will construct the new experiment.  A very nice feature of working at
+these frequencies is that high-quality off-the-shelf components are
+available and so construction is extremely quick.  For reference, in a
+recent visit to Durban, Peterson along with our group and staff at the
+Durban University of Technology put together a 2-element radio
+telescope and successfully combined their signals in the space of
+24(!) hours.  This sort of speed is unheard of at other frequencies at
+which astronomers work.  
+
+Should we proceed to phase 2, we will consult with SANAP as to if a
+winter-over would be needed.  Generally the equipment is extremely
+hards, and since it has no moving parts, there is not much to fail
+during the course of a season.  Our expectation is that we can install
+phase-2 while the ship is in harbour, the experiment can be left
+running for the year, and then we collect it during the next season.
+For this model to work, we would need to be able to see the data
+remotely.  The data rate is very low (a full season would easily fit
+on a single hard drive), so we do not expect this requirement to be
+onerous.  We might possibly need to enlist the aid of someone on-site
+in the event of instrument failure.  For very modest 
+cost (in the range of a few tens of thousands of rand) we can have redundant
+electronics, so in the event that something does fail, the need for
+on-site support could be as simple as flipping a switch. 
+
+We currently do not know the RFI environment near the research
+stations - this is the main point, after all, of phase 1.  If there is
+significant RFI from the stations, and installing on a remote place is
+unfeasible, we will request that the station periodically go
+"radio-quiet."  As mentioned previously, this means turning off
+computers, transmitting devices, and anything else likely to produce
+RFI (which could even include toaster ovens).  To investigate the
+ultra low frequency astrophysics does require a winter deployment in
+order to observe while the ionosphere is weak.  However, the total
+integration time again could be quite modest, so short periods of
+radio-quietness would be sufficient for our needs, preferentially late
+at night when people are likely to be sleeping anyways.  
+
+The data collection for phase-2 would again be carried out by a single
+computer. The analysis would be very similar to phase-1, which is
+already substantially solved (see Voytek et al. 2014 for details).
+Though, with the increased sensitivity expected from phase-2, new
+techniques for better removal of the galaxy may be required.  This
+will be an area of active research over the coming years.  The
+very low-frequency (~10 MHz) analysis is likely to be sufficiently
+different from the EoR (~50-100 MHz) studies that separate postgrad students
+will be devoted to each frequency range.  
+>>>>>>> upstream/master
