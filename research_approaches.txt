@@ -1,7 +1,7 @@
 ﻿°	 Detailed descriptions should be provided on the research approach, methods and techniques.
 °	  Description should also include data collection and analysis and other relevant information.
-<<<<<<< HEAD
-test
+
+V1
 
 Several experiments seek to measure the Tb trough in the 21-cm global spectrum. These include the 'Large aperture Experiment to detect the Dark Ages' (LEDA), an expanded EDGES, the 'LOFAR Cosmic Dawn Search' (LOCOS), 'Sonda Cosmologica de las Islas para la deteccion de HIdrogeno neutro' (SCI-HI), and the proposed 'Dark Ages Radio Explorer' (DARE). 
 
@@ -11,7 +11,7 @@ The Galactic synchrotron emission mechanism is believed to produce a spectrum th
 
 More sophisticated techniques may be developed and tested as part of the proposed project. 
 
-=======
+V2
 
 The first phase of this project is to deploy SCI-HI to Marion and
 Gough Islands to test the RFI environments there.  This would entail
@@ -106,4 +106,3 @@ will be an area of active research over the coming years.  The
 very low-frequency (~10 MHz) analysis is likely to be sufficiently
 different from the EoR (~50-100 MHz) studies that separate postgrad students
 will be devoted to each frequency range.  
->>>>>>> upstream/master

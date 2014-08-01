@@ -27,15 +27,6 @@ inhabited neighbours, but Gough is further from major population
 centres.  MSc student to accompany Tabitha Voytek.  Same hardware
 requirements as previous year.
 
-<<<<<<< HEAD
-2017: Analysis of 2016-2017 season data.
-
-
-Equipment: 
-
-Radio antennae (specially designed and built by
-collaboration). Electronics (calibration, amplifiers, filters,
-=======
 End of 2016: paper describing RFI environment at this island and any
 possible science detection to be published.  Analysis to be improved
 over previous year.  If first paper is MSc student, this would be a
@@ -48,7 +39,6 @@ frequency).  Development to
 happen at UKZN and at Carnegie-Mellon University.  One MSc student
 plus 3-6 honours students.  Equipment: Radio antennae (specially
 designed and built by collaboration). Electronics (calibration, amplifiers, filters,
->>>>>>> upstream/master
 etc. either commercially available or developed by the
 collaboration). Data Processing Hardware and Software (ADC, Fourier
 transform, low power consumption, SNAP/ROACH boards).

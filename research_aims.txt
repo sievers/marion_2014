@@ -1,14 +1,6 @@
-°	 Provide details on the aims of the research project.
+﻿°	 Provide details on the aims of the research project.
 °	  These should focus on research-related aims and not capacity or human resource development aims.
 
-<<<<<<< HEAD
-The primary goals for this proposal are two fold.
-
-First, to test the islands (Marion, Gough) for suitability in low frequency radio astronomy applications. In particular, to investigate the Radio Frequency Interference (RFI) environment on the islands over the course of the year in the frequency range of 5-150 MHz.
-
-Second, to develop and deploy a simple radio telescope system for measurement of the global hydrogen 21-cm signal in the same frequency range (5-150 MHz).
-
-=======
 The research aims of this project are as follows:  
 
 1) Test Gough and Marion islands to see if they are suitable for
@@ -48,5 +40,3 @@ relative importance of stars and quasars in lighting up the universe,
 which is currently unknown.  We will also be able to trace out when
 and how quickly the first stars formed, and how this period ended as
 the neutral hydrogen gets ionized.  
->>>>>>> upstream/master
-

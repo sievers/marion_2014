@@ -1,9 +1,10 @@
-°	 Provide the context (national and/or international) of the proposed research together with a review of the literature and other relevant resources.
+﻿°	 Provide the context (national and/or international) of the proposed research together with a review of the literature and other relevant resources.
 °	  State the strategic importance of the research and how the research is relevant to the selected NRF Focus Area (please read the Descriptions of the Focus Area Programme at www.nrf.ac.za).
 
 Need to add context here.
 
-<<<<<<< HEAD
+V1.
+
 Very few observations constrain models of the Dark Ages, during which the simple initial conditions seen with the Cosmic Microwave Background (CMB) evolved into the complex structures we see today. A key process during the Dark Ages is the formation of the first (Pop III.1) stars in dark matter minihaloes with about 1-100 million times the mass of the sun at redshifts z~20-30.[1][2] These first, short-lived stars provided the universe with the heavy elements necessary for subsequent generations of stars and planets.
 
 Besides providing heavy elements, the first stars impacted the intergalactic medium (IGM), transforming it from neutral hydrogen into the ionized state we see today. We can learn about first star formation by examining the all-sky (global) 21 cm brightness temperature (Tb) in the IGM. Prior to reionization Tb is is characterized by decrement followed by increment, which can be understood through the following process.
@@ -35,7 +36,8 @@ References:
 [12] J. O. Burns, J. Lazio, S. Bale, J. Bowman, R. Bradley, C. Carilli, S. Furlanetto, G. Harker, A. Loeb, and J. Pritchard. Probing the rst stars and black holes in the early Universe with the Dark Ages Radio Explorer (DARE). Advances in Space Research, 49:433-450, February 2012.
 
 
-=======
+V2
+
 Emission and absorption due to the 21-cm spin flip transition of
 neutral atomic Hydrogen (referred to as HI by astronomers) have been proposed as valuable tools to probe
 the physics of the Universe at early times.  Experiments studying the
@@ -147,5 +149,4 @@ signals and ionospheric reflection. In the winter, on the polar cap
 these broadcast signals are much weaker than at mid-latitudes, and may
 be entirely absent for periods of time.  The work proposed here, at no
 additional cost, would be a key step in understanding if this era of
-the universe can be studied from the ground
->>>>>>> upstream/master
+the universe can be studied from the ground.

@@ -2,9 +2,6 @@
 
 The primary goals for this proposal are two fold.
 
-<<<<<<< HEAD
-First, to test the islands (Marion, Gough) for suitability in low frequency radio astronomy applications. In particular, to investigate the Radio Frequency Interference (RFI) environment on the islands over the course of the year in the frequency range of 5-150 MHz.
-=======
 The universe was a very different place in its infancy.  Immediately
 after the big bang, there were no stars or galaxies, or even any
 elements heaver than helium (except for trace amounts of lithium and
@@ -112,15 +109,3 @@ winter season that would use knowledge gained from SCI-HI to improve
 the design, and measure the global 21-cm EoR signal. 
 
 
-
-
-
-
-
-
-
-
-First, to test the islands (Marion, Gough) for suitability in low frequency radio astronomy applications. In particular, to investigate the Radio Frequency Interference (RFI) environment on the islands over the course of the year in the frequency range of 10-150 MHz.
->>>>>>> upstream/master
-
-Second, to develop and deploy a simple radio telescope system for measurement of the global hydrogen 21-cm signal in the same frequency range (5-150 MHz).
