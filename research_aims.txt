@@ -1,4 +1,4 @@
-°	 Provide details on the aims of the research project.
+﻿°	 Provide details on the aims of the research project.
 °	  These should focus on research-related aims and not capacity or human resource development aims.
 
 The research aims of this project are as follows:  
@@ -40,4 +40,3 @@ relative importance of stars and quasars in lighting up the universe,
 which is currently unknown.  We will also be able to trace out when
 and how quickly the first stars formed, and how this period ended as
 the neutral hydrogen gets ionized.  
-

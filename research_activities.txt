@@ -1,4 +1,4 @@
-°	This section includes the workplan which should focus on research activities and their associated milestones.
+﻿°	This section includes the workplan which should focus on research activities and their associated milestones.
 °	 Description should also include information on timeframes and responsibilities, how students will be involved, availability of specialized equipment, infrastructure and resources and other relevant information.
 
 Timeline:  This is our ideal timeline and is achievable if space on
@@ -60,7 +60,9 @@ one describing data processing and cleaning of galactic foregrounds,
 one describing science result and interpretation, and (at least) one
 describing very low frequency observation of the cosmic dark ages.
 
-Student Involvement: There are opportunities for student involvement
+Student Involvement: 
+
+There are opportunities for student involvement
 at each stage of the project. In the experiment development and
 testing phase, students will help to build and test each experiment
 component locally. This includes antenna design and testing, gpu

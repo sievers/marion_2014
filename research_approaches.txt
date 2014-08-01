@@ -1,5 +1,17 @@
-°	 Detailed descriptions should be provided on the research approach, methods and techniques.
+﻿°	 Detailed descriptions should be provided on the research approach, methods and techniques.
 °	  Description should also include data collection and analysis and other relevant information.
+
+V1
+
+Several experiments seek to measure the Tb trough in the 21-cm global spectrum. These include the 'Large aperture Experiment to detect the Dark Ages' (LEDA), an expanded EDGES, the 'LOFAR Cosmic Dawn Search' (LOCOS), 'Sonda Cosmologica de las Islas para la deteccion de HIdrogeno neutro' (SCI-HI), and the proposed 'Dark Ages Radio Explorer' (DARE). 
+
+A key difficulty for all these experiments is the much brighter Galactic continuum emission, which must be subtracted in order to measure the 21 cm flux. At 50 MHz, the Galactic brightness temperature at high Galactic latitude is about 5000K. The synchrotron spectrum declines as frequency to the −2.5 power. Underneath this sloping foreground lies the 0-300 mK features due to 21-cm emission and absorption.
+
+The Galactic synchrotron emission mechanism is believed to produce a spectrum that is quite featureless apart from a smooth power law, allowing detection of the features we seek. However, to adequately remove even a smooth power law the brightness itself must be measured with a precision ∼ 10^−5 . This very precise calibration of the spectrometer is needed across about an octave of frequency. The calibration strategy that has yielded the best published results (the SCI-HI project) uses the diurnal variation of the Galactic brightness as a an on-sky calibration source. We assume the spectrum of the Galactic emission is much smoother than the 21-cm signal we seek, and remove a low order polynomial in log frequency vs log intensity. This technique has the advantage that the entire system is calibrated end-to-end, without disconnecting the antenna. The disadvantage is that we must assume the spectral smoothness of the Galactic flux.
+
+More sophisticated techniques may be developed and tested as part of the proposed project. 
+
+V2
 
 The first phase of this project is to deploy SCI-HI to Marion and
 Gough Islands to test the RFI environments there.  This would entail

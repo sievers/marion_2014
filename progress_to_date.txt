@@ -1,10 +1,7 @@
-A statement of process progress
+﻿A statement of process progress
 ° For new applications: Provide an informative summary of the relevant work that the applicant(s) has undertaken preceding this application.
 ° For ongoing applications: Provide a summary of progress since commencement of the project
 
-Presumably here we would talk about the SCI-HI project? Are there any other
-projects that are direct precursors? Jeff ’s RFI site testing experience? CoI
-previous antarctic experience?
 
 The proposing team are experts in the field, and will be substantially
 repeating work they have done in the past with SCI-HI.  The unique,
