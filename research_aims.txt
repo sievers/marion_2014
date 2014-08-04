@@ -32,12 +32,14 @@ phase-2 experiment would draw on the knowledge learned with SCI-HI to
 improve the design, mitigating instrumental systematics.  The
 instrument would also be designed to make the first constraints ever
 on the properties of the universe during the cosmolical dark ages,
-the era after the big bang but before the first stars formed.
+the era after the big bang but before the first stars formed.  The
+sub-Antarctic islands are amongst the tiny handful or remote places
+where this could be done from the Earth.
 
 4) Using the measurements from the phase-2 experiment, study the first
 stars in the universe.  Through this data we will be able to tell the
 relative importance of stars and quasars in lighting up the universe,
 which is currently unknown.  We will also be able to trace out when
 and how quickly the first stars formed, and how this period ended as
-the neutral hydrogen gets ionized.  
+light from stars/quasars reionizes the universe.
 

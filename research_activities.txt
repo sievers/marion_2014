@@ -5,21 +5,24 @@ Timeline:  This is our ideal timeline and is achievable if space on
 the ship and permission to set up SCI-HI for a few days on either of
 the sub-Antarctic islands is obtained.  If this is not possible, all
 dates could be pushed back by a year.  Note that if ship schedules
-permit, we might be ablto to site test both Marion and Gough in the
+permit, we might be able to to site test both Marion and Gough in the
 same summer season.
 
 2015 summer season: Trip to islands for preliminary site testing and
 deployment of previously built experiment (SCI-HI). Would only be
 there during the ship  turnaround period at one of the islands.
 Either Marion or Gough would be suitable, depending on logistics.  MSc
-student to accompany SCI-HI builder Tabitha Voytek.  Experiment
-development hardware (portable Vector Network Analyzer, Spectrum
-Analyzer.  If available on-site can be borrowed, otherwise must be
-purchased). Deployment resources (eg power generators, batteries). 
+student to accompany SCI-HI builder Tabitha Voytek.  The development
+hardware needed for the experiment is a portable Vector Network
+Analyzer, and a portable Spectrum Analyzer.  If they are available
+on-site they can be borrowed, otherwise we must purchased them.
+Deployment resources are either a small portable generator (preferred)
+or batteries. 
 
 
 End of 2015:  paper describing RFI environment and any possible
-science detection to be published.  MSc/Phd Thesis.
+science detection to be submitted.  This will contribute to MSc/Phd
+Theses (one on the experimental run, one on science results).
 
 2016 summer season: Trip to the other island to investigate RFI there.  Note
 that both islands should be checked - Marion is further from nearest
@@ -29,19 +32,20 @@ requirements as previous year.
 
 End of 2016: paper describing RFI environment at this island and any
 possible science detection to be published.  Analysis to be improved
-over previous year.  If first paper is MSc student, this would be a
-different one.  If PhD, would be the same.
+over previous year.  If first results paper is by an MSc student, we
+expect this would be a different student.  If PhD, would be the same.
 
-
-2016-2017: Development and testing of new 21-cm experiment (improved
-antenna,  better data collection hardware/software, extending to lower
-frequency).  Development to
-happen at UKZN and at Carnegie-Mellon University.  One MSc student
+2016-2017: Development and testing of new 21-cm experiment with an improved
+antenna,  better data collection hardware/software, and extending to lower
+frequency.  Development to happen in the labs of Jeffrey Peterson (Carnegie-Mellon) and
+H. Cynthia Chiang (UKZN).  One MSc student
 plus 3-6 honours students.  Equipment: Radio antennae (specially
-designed and built by collaboration). Electronics (calibration, amplifiers, filters,
-etc. either commercially available or developed by the
-collaboration). Data Processing Hardware and Software (ADC, Fourier
-transform, low power consumption, SNAP/ROACH boards).
+designed and built by collaboration). Electronics needed for e.g. calibration, amplification, filtering
+are either commercially available or to be developed by the
+collaboration. Data Processing Hardware and Software to be
+integrated/developed (Analog-to-Digital converters, Fourier
+transformers, low power consumption, SNAP/ROACH boards can do this and
+are open source).  
 
 
 2017-2018 season (if earlier investigations show good RFI): deploy
@@ -59,6 +63,8 @@ a minimum of four papers in this release:  one describing experiment,
 one describing data processing and cleaning of galactic foregrounds,
 one describing science result and interpretation, and (at least) one
 describing very low frequency observation of the cosmic dark ages.
+The work here will be students finishing their thesis and releasing
+results.  We do not request experimental support during 2018.
 
 Student Involvement: There are opportunities for student involvement
 at each stage of the project. In the experiment development and
